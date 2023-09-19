@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kedar59
 - 👀 I’m currently learning fullstack webdev.
 - 💞️ I’m looking to collaborate on anything releated to coding
-- 📫 How to reach me kedar.shidhaye@soamaiya.edu or on discord Kedar#9913
+- 📫 How to reach me kedar.shidhaye@somaiya.edu or on discord Kedar#9913
 
 <!---
 Kedar59/Kedar59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

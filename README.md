@@ -1,4 +1,4 @@
-nothing I am doing nothing
+thinking and writing code.
 
 <!---
 Kedar59/Kedar59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
